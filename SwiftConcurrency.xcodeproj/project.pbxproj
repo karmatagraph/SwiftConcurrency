@@ -11,6 +11,7 @@
 		48FA7F522863117B00E4F91F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48FA7F512863117B00E4F91F /* ContentView.swift */; };
 		48FA7F542863117E00E4F91F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48FA7F532863117E00E4F91F /* Assets.xcassets */; };
 		48FA7F572863117E00E4F91F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48FA7F562863117E00E4F91F /* Preview Assets.xcassets */; };
+		48FA7F5E286311C300E4F91F /* docatchBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48FA7F5D286311C300E4F91F /* docatchBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		48FA7F512863117B00E4F91F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		48FA7F532863117E00E4F91F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		48FA7F562863117E00E4F91F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		48FA7F5D286311C300E4F91F /* docatchBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = docatchBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				48FA7F4F2863117B00E4F91F /* SwiftConcurrencyApp.swift */,
 				48FA7F512863117B00E4F91F /* ContentView.swift */,
+				48FA7F5D286311C300E4F91F /* docatchBootcamp.swift */,
 				48FA7F532863117E00E4F91F /* Assets.xcassets */,
 				48FA7F552863117E00E4F91F /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				48FA7F522863117B00E4F91F /* ContentView.swift in Sources */,
 				48FA7F502863117B00E4F91F /* SwiftConcurrencyApp.swift in Sources */,
+				48FA7F5E286311C300E4F91F /* docatchBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
